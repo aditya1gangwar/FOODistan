@@ -63,12 +63,12 @@ header {
   transform: color 0.1s;
 }
 .box2-links:hover {
-  color: var(--link-color);
+  color:#146c48;;
 }
 .contact-button a {
   display: none;
   border-radius: 0.28rem;
-  background-color: var(--primary-color);
+   background-color:#146c48;
   color: #ffffff;
   padding: 0.5rem 1.5rem;
   font-size: 1.125rem;
@@ -77,7 +77,7 @@ header {
 }
 
 .contact-button a:hover {
-  background-color: #5254f8;
+   background-color:#068651;
 }
 @media screen and (min-width: 786px) {
   .contact-button a {
@@ -133,10 +133,11 @@ width: 2rem;
     opacity: 100%;} 
 }
 .start-heading{
-    color:var(--accent-color);
+  
     font-weight: 600;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     padding: 1rem;
+  color:#146c48;
 }
 .main-heading{
     font-family: 'Poppins', sans-serif;
@@ -146,7 +147,7 @@ width: 2rem;
 .book-table{
     border: none;
     border-radius: 0.28rem;
-    background-color: var(--primary-color);
+      background-color:#146c48;
     color: #ffffff;
     padding: 0.5rem 1.5rem;
     font-size: 1.125rem;
@@ -154,7 +155,7 @@ width: 2rem;
     transform:all 0.1sec;
 }
 .book-table:hover{
-    background-color:#5254f8 ;
+      background-color:#068651;
 }
 .take-away{
     border:none;
@@ -565,6 +566,7 @@ button{
 button input{
   background-color:#146c48;
   transform:color 0.2s;
+  color:#ffffff;
 }
 button:hover{
  
@@ -576,7 +578,6 @@ input{
   border:1.5px solid;
   height:2.3rem;
   padding-left:0.5rem;
-  color:#ffffff
   
 }
 form{
@@ -668,7 +669,7 @@ margin-bottom:1rem;
   
 }
 .events-box p:hover{
-  color:var(--link-color);
+  color:#146c48;;
 }
 .events-footer h3{
   font-size:1.4rem;
@@ -696,7 +697,7 @@ margin-bottom:1rem;
   
 }
 .click-links a:hover{
-  color:var(--link-color);
+  color:#146c48;;
 }
 .link-footer p{
   font-size:1.5rem;
